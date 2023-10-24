@@ -1,6 +1,6 @@
 // NoMatch.jsx
 import React from 'react';
-import './NoMatch.css';
+
 
 const NoMatch = () => {
     return (
